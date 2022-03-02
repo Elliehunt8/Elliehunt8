@@ -4,7 +4,7 @@
  <div>
   <p> 👩🏻‍💻🌵 I am a fullstack software engineer in Phoenix, AZ open to remote work and relocation. </p>
   <p> 🧩💟 I am passionate about all facets of the puzzle that is full stack software engineering and app building. </p>
-  <p> 📬👋 Check out some of my projects here and feel free to reach out to me at elliehunt8@gmail.com or on </p> 
+  <p> 📬👋 Check out some of my projects here and feel free to reach out to me at elliehunt8@gmail.com or on LinkedIn </p> 
  </div>
 
 
